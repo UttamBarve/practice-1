@@ -1,2 +1,1 @@
-# practice
-it is a practice repo how to collaborate.
+That's How You change the content of the repo
